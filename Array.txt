@@ -1,2 +1,0 @@
-1. Two Sum: https://leetcode.com/problems/two-sum/
-2. Rotate Array: https://leetcode.com/problems/rotate-array/
