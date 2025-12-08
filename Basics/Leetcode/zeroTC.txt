@@ -3,3 +3,5 @@ static const auto fast  = [](){
     cin.tie(nullptr);
     return 0;
 }();
+
+//add this for getting T.C  = O(1)

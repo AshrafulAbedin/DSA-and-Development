@@ -1,4 +1,4 @@
-5 Principle:
+5 Principle: SRP
 
 1. Cohesion
 2. Coupling
