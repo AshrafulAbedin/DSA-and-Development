@@ -1,0 +1,5 @@
+1) Naive
+2) KMP
+3) Rabin-Karp
+4) Boyer-Moore
+5) Aho-Corasick

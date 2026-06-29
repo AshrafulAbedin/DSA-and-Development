@@ -22,7 +22,7 @@ int prec(char ch)
     return 0;
 }
 
-string infix_to_postfix(string expr )
+string infix_to_postfix(string expr)
 {
     stack<char> st;
     string res ="";

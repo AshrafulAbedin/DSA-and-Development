@@ -1,0 +1,5 @@
+{
+    "editor.overtypeCursorStyle": "line",
+    "editor.cursorStyle": "line",
+    "terminal.integrated.cursorStyle": "underline"
+}
